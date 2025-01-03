@@ -1,12 +1,14 @@
-name = "backend"
+name = "medium-ankit"
 main = "src/index.ts"
 compatibility_date = "2024-11-13"
 
 # compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMzY0M2FjNjItOGNmZS00NDI3LTkzMGMtNGRlMGUxMjFhZDUzIiwidGVuYW50X2lkIjoiZDEzYWMyYTM0YmMwYjdlOTkyZTc3ODI2MTY4MTI5OGIyMTI1Y2MxN2EzMTAwOTEwN2M4MmQ0YjZhMjBjODg0ZSIsImludGVybmFsX3NlY3JldCI6IjFkZGRjZTZmLTczZjgtNGZiNi04MzNiLWRlOGMxYjAxOTU4YyJ9.nI9mbk2c6Mr9W6beiWXCllvEM2P5Cz2XRKknqOQinnI"
+DATABASE_URL=""
 DIRECT_URL="<YOUR_DATABASE_CONNECTION_STRING>"
 
-JWT_SECRET = "asdasdasd"
+JWT_SECRET = ""
+
+external_modules = ["medium-ankit"]
 
