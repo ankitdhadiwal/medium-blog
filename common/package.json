@@ -1,0 +1,22 @@
+{
+  "name": "medium-ankit",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "medium-ankit": "^1.0.0",
+    "zod": "^3.24.1"
+  },
+  "version": "1.0.0",
+  "description": "This is an Medium Clone Project !",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "medium-blog"
+  },
+  "author": "Ankit Dhadiwal",
+  "license": "ISC"
+}
